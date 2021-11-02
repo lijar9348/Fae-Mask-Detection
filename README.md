@@ -1,1 +1,1 @@
-# Fae-Mask-Detection
+# Face-Mask-Detection
